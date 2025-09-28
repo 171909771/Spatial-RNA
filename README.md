@@ -2,7 +2,7 @@ https://satijalab.org/seurat/articles/spatial_vignette
 
 
 ## Identification of Spatially Variable Features
-
+modify the codes
 ```
 SpatiallyVariableFeatures_workaround <- function(object, assay = "SCT", selection.method = "moransi") {
   
