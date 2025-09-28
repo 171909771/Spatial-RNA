@@ -1,7 +1,9 @@
 https://satijalab.org/seurat/articles/spatial_vignette
 
 the basal directories
+
 <img width="454" height="200" alt="Screenshot from 2025-09-28 11-46-36" src="https://github.com/user-attachments/assets/a0c00c9c-d234-48ed-b58a-242b7eb8d1b7" />
+
 <img width="567" height="212" alt="Screenshot from 2025-09-28 11-46-50" src="https://github.com/user-attachments/assets/18ca7619-3ae4-476b-8b35-3958fbfb41cc" />
 
 
